@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Modern music player web application",
   "scripts": {
-    "build": "echo 'Static deployment ready'",
+    "build": "node build.js",
     "start": "node server.js"
   },
   "keywords": ["music-player", "audio", "spotify-clone", "html5-audio"],
