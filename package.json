@@ -2,8 +2,8 @@
   "name": "soundpulse-music-player",
   "version": "1.0.0",
   "description": "Modern music player web application",
-  "main": "server.js",
   "scripts": {
+    "build": "echo 'Static deployment ready'",
     "start": "node server.js"
   },
   "keywords": ["music-player", "audio", "spotify-clone", "html5-audio"],
